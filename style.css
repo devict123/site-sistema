@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 243, 226);
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+a{
+    color: black;
+    text-decoration:none;
+
+}
+
+a:hover{
+    cursor: pointer;
+    background-color:rgb(194, 171, 43);
+    font-size: 1.25rem;
+    transition: 0.6s;
+    color: white;
+  
+}
+a:visited{
+    color: black;
+}
